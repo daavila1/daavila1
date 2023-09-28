@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **autonomous vehicles**
 
-- 🌱 I’m currently learning **Machine learning and computer vision**
+- 🌱 I’m currently learning **machine learning and computer vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
