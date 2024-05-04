@@ -1,6 +1,4 @@
-<p align="center">
-  <h3### Hi!!👋</h3>
-</p>
+### Hi there👋
 <!--
 **daavila1/daavila1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
